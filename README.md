@@ -1,4 +1,4 @@
-# Soccer-Player-Robot
+# Soccer Player Robot
 A Soccer Player robot made with Raspberry Pi 3 and OpenCV for Computer Architecture course at Shahid Bahonar University of Kerman
 
 ![thumbnail](https://github.com/Gholamrezadar/Soccer-Player-Robot/raw/main/thumbnail.jpg)
